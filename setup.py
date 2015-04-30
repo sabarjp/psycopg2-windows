@@ -7,7 +7,7 @@ setup(
     summary='Python-PostgreSQL Database Adapter',
     author='Federico Di Gregorio',
     author_email='fog@initd.org',
-    description='Agnostic and easy to use ajax library for django',
+    description='Python-PostgreSQL Database Adapter',
     url='http://initd.org/psycopg',
     license='GPL with exceptions or ZPL',
     packages=find_packages("."),
